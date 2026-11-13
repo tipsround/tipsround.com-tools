@@ -95,7 +95,7 @@ Every tool runs directly inside your browser—no registration, no watermarks, a
 
 ## Community & Platform Links
 
-* **Main Tech Forum:** [https://tipsround.com/](https://tipsround.com/ "null")
+* **Main Tech Forum:** [https://tipsround.com/](https://tipsround.com/tools "null")
 
 * **Q&A Help Desk:** [https://tipsround.com/questions](https://tipsround.com/questions "null")
 
